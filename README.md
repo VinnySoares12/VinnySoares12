@@ -27,7 +27,7 @@
  </div>
   
   ## Goals:books:
-   I'm interested in growing as a programmer and looking for my first experience in the IT area as an intern. For this I'm going to studying to achieve these goals until arrive on the top !
+   I'm interested in growing as a programmer and looking for my first experience in the IT area as an intern. For this I'm going to study a lot to achieve these goals until arrive on the top !
   
  
   
