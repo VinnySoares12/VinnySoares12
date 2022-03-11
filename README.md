@@ -35,7 +35,7 @@
   
   
   ## If you are interested:
-   you can reach me writing a the e-mail: Viniciusandreguidio@hotmail.com
+  :e-mail: you can reach me writing a the e-mail: Viniciusandreguidio@hotmail.com
   
   or my social medias below:
   
