@@ -18,8 +18,7 @@
   
   <img align="center" alt="VinnySoares12-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="VinnySoares12-NodeJs" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  
+ 
   
 
 
