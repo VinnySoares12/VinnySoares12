@@ -1,5 +1,5 @@
 - # Hi there:wave:
-- This profile was created precisely to save my codes, which I will be developing in Classes or jobs.
+- This profile was created precisely to save my codes, which I will be developing in course or jobs.
 
 
 ###### Hi! I’m Vinicius André, a brazilian programming student! In this profile you will see some works that I made to study/test my abilities as a programmer ! 
