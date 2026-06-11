@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius Soares
+# Hi, I'm Vinicius Guidio
 
 LLM Developer, Data Analyst and Automation Specialist focused on business workflows, AI agents, API integrations, reporting automation and operational systems.
 
