@@ -1,65 +1,114 @@
-# Hi there :wave:
+# Hi, I'm Vinicius Soares
 
-This profile was created to save and showcase my codes, projects, studies, and professional development in technology.
+LLM Developer, Data Analyst and Automation Specialist focused on business workflows, AI agents, API integrations, reporting automation and operational systems.
 
-###### Hi! I’m Vinicius Soares, a Brazilian Information Systems student and technology professional focused on software development, LLM-based solutions, data analysis, process automation, and workflow optimization.
+I build practical solutions that help companies reduce manual work, connect tools, organize data and improve business operations with automation, analytics and AI.
 
-In this profile, you will find projects that I have developed to study, improve my technical skills, and apply practical solutions related to development, automation, data, APIs, dashboards, and AI workflows.
+---
 
-I’m currently working and improving my skills in:
+## About Me
 
-<div align="center">
+I create automations, dashboards and intelligent workflows that solve real business problems.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="VinnySoares12-Js" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+My focus is connecting tools, data and processes through AI agents, APIs, webhooks, automation platforms and business intelligence solutions. I work with development, low-code tools and data analysis to build systems that are useful, organized and ready to scale.
 
-  <img align="center" alt="VinnySoares12-TypeScript" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+Currently, I am building and improving projects with:
 
-  <img align="center" alt="VinnySoares12-Python" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+* LLM-based solutions and AI agents
+* n8n automations, APIs and webhooks
+* Google Apps Script and Google Sheets
+* Looker Studio dashboards and reports
+* Data analysis and business intelligence
+* PowerShell scripts and internal automation tools
+* JavaScript and TypeScript projects
 
-  <img align="center" alt="VinnySoares12-HTML" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+---
 
-  <img align="center" alt="VinnySoares12-CSS" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+## Main Stack
 
-  <img align="center" alt="VinnySoares12-Git" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+| Area           | Technologies                                            |
+| -------------- | ------------------------------------------------------- |
+| AI & LLM       | AI Agents, LLM Workflows, Prompts, Structured Outputs   |
+| Automation     | n8n, Webhooks, API Integrations, Workflow Automation    |
+| Data & BI      | Looker Studio, Google Sheets, Data Analysis, Dashboards |
+| Development    | JavaScript, TypeScript, HTML, CSS                       |
+| Scripts        | Google Apps Script, PowerShell                          |
+| Backend & APIs | REST APIs, Webhooks, JSON, Integrations                 |
+| Tools          | GitHub, VS Code, Markdown                               |
 
-## Main Areas :computer:
+---
 
-I’m interested in growing as a technology professional by combining software development, automation, data analysis, and artificial intelligence to create practical solutions that improve business operations.
+## What I Build
 
-My main focus areas are:
+* AI agents for business processes
+* LLM-based automation workflows
+* API integrations between systems
+* Internal tools for operations
+* Automated reports and dashboards
+* Google Sheets automation projects
+* Looker Studio reporting solutions
+* n8n workflows for data processing
+* PowerShell scripts for file and system automation
+* Web projects and interface prototypes
 
-* Software Development
-* LLM-based Solutions
+---
+
+## Current Focus
+
+Building real-world technology projects using:
+
+* LLMs
 * AI Agents
-* Process Automation
+* n8n
+* APIs
+* Webhooks
+* Google Apps Script
+* Looker Studio
+* Google Sheets
+* PowerShell
+* JavaScript
+* TypeScript
 * Data Analysis
 * Business Intelligence
-* API Integrations
-* Workflow Automation
-* Dashboards and Reports
-* Google Apps Script
-* n8n Automations
-* Looker Studio
-* PowerShell Scripts
 
-## Goals :books:
+---
 
-My goal is to keep evolving as a Developer, LLM Solutions Builder, Data Analyst, and Automation Specialist.
+## Featured Projects
 
-I’m focused on learning new technologies, building useful projects, improving my programming logic, and creating solutions that reduce manual work, increase productivity, and support better decision-making.
+| Project                            | Description                                                                                                              |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| LLM Chatbot Automation             | AI-powered chatbot workflow using LLMs, structured outputs, webhooks and automation tools to support business operations |
+| Looker Studio Reporting Automation | Automated reporting solution focused on daily and monthly business metrics, dashboards and data visualization            |
+| n8n API Integration Workflow       | Workflow automation project connecting systems, validating data and sending information to different tools or databases  |
+| Google Sheets Data Pipeline        | Data processing and reporting automation using Google Sheets, formulas, Apps Script and structured data                  |
+| PowerShell File Automation         | Script-based automation for organizing, moving, renaming and processing files in Windows environments                    |
+| Barbershop App                     | Web application project focused on scheduling, interface structure and modern development practice                       |
 
-## If you are interested:
+---
 
-:e-mail: You can reach me by email: [Viniciusandreguidio@hotmail.com](mailto:Viniciusandreguidio@hotmail.com)
+## GitHub
 
-Or through my social media below:
+I use GitHub to document my studies, organize projects and publish the systems, automations and technical solutions I am building.
 
-<div> 
+My main focus right now is:
 
-<a href="https://www.instagram.com/povinnys/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/viniciusguidio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+* AI automation
+* LLM-based solutions
+* Business workflows
+* Data analysis
+* n8n integrations
+* API automation
+* Reporting automation
+* Looker Studio dashboards
+* Google Apps Script projects
+* JavaScript and TypeScript development
 
-</div>
+---
 
-</div>
+## Contact
+
+You can reach me through:
+
+* LinkedIn: https://www.linkedin.com/in/viniciusguidio/
+* GitHub: https://github.com/VinnySoares12
+* Email: [Viniciusandreguidio@hotmail.com](mailto:Viniciusandreguidio@hotmail.com)
