@@ -1,114 +1,70 @@
-# Hi, I'm Vinicius Guidio
+# Hi, I'm Vinicius Soares 👋
 
-LLM Developer, Data Analyst and Automation Specialist focused on business workflows, AI agents, API integrations, reporting automation and operational systems.
+### Junior Data Analyst | Business Intelligence | Data Analytics | Automation
 
-I build practical solutions that help companies reduce manual work, connect tools, organize data and improve business operations with automation, analytics and AI.
+I'm a Junior Data Analyst with hands-on experience in data analysis, KPI reporting, dashboard development, data validation, and process automation.
 
----
+In my current role, I work with operational and financial data, build dashboards and reports in Metabase, investigate data inconsistencies, and develop automation workflows that help reduce manual work and improve reporting efficiency.
 
-## About Me
+## What I work with
 
-I create automations, dashboards and intelligent workflows that solve real business problems.
+### Data & Business Intelligence
+- Metabase
+- Microsoft Excel
+- SQL
+- PostgreSQL
+- Supabase
+- Data Analysis
+- Data Validation
+- KPI Reporting
+- Data Visualization
 
-My focus is connecting tools, data and processes through AI agents, APIs, webhooks, automation platforms and business intelligence solutions. I work with development, low-code tools and data analysis to build systems that are useful, organized and ready to scale.
+### Automation & Integration
+- n8n
+- REST APIs
+- Webhooks
+- JavaScript
+- Google Apps Script
+- Workflow Automation
+- Payload Transformation
 
-Currently, I am building and improving projects with:
+### AI
+- LLMs
+- AI Agents
+- Prompt Engineering
 
-* LLM-based solutions and AI agents
-* n8n automations, APIs and webhooks
-* Google Apps Script and Google Sheets
-* Looker Studio dashboards and reports
-* Data analysis and business intelligence
-* PowerShell scripts and internal automation tools
-* JavaScript and TypeScript projects
+### Tools
+- Git
+- GitHub
+- Vercel
 
----
+## Featured Project
 
-## Main Stack
+### Finance Hub
 
-| Area           | Technologies                                            |
-| -------------- | ------------------------------------------------------- |
-| AI & LLM       | AI Agents, LLM Workflows, Prompts, Structured Outputs   |
-| Automation     | n8n, Webhooks, API Integrations, Workflow Automation    |
-| Data & BI      | Looker Studio, Google Sheets, Data Analysis, Dashboards |
-| Development    | JavaScript, TypeScript, HTML, CSS                       |
-| Scripts        | Google Apps Script, PowerShell                          |
-| Backend & APIs | REST APIs, Webhooks, JSON, Integrations                 |
-| Tools          | GitHub, VS Code, Markdown                               |
+Personal finance analytics platform designed to help users organize and understand their financial data.
 
----
+The platform includes:
 
-## What I Build
+- Monthly spending analysis
+- Highest-spending category identification
+- Expense trends
+- Savings percentage
+- Remaining balance
+- Month-over-month comparisons
+- Savings tracking
+- Excel report generation
 
-* AI agents for business processes
-* LLM-based automation workflows
-* API integrations between systems
-* Internal tools for operations
-* Automated reports and dashboards
-* Google Sheets automation projects
-* Looker Studio reporting solutions
-* n8n workflows for data processing
-* PowerShell scripts for file and system automation
-* Web projects and interface prototypes
+**Tech Stack:** React, TypeScript, Supabase/PostgreSQL, ExcelJS, Git/GitHub, Vercel
 
----
+## Currently
 
-## Current Focus
+🎓 Pursuing a degree in Information Systems  
+💼 Working as a Junior Data Analyst  
+📊 Strengthening my skills in SQL, Business Intelligence, and Data Analytics  
+🌎 Building my professional profile for international opportunities
 
-Building real-world technology projects using:
+## Let's connect
 
-* LLMs
-* AI Agents
-* n8n
-* APIs
-* Webhooks
-* Google Apps Script
-* Looker Studio
-* Google Sheets
-* PowerShell
-* JavaScript
-* TypeScript
-* Data Analysis
-* Business Intelligence
-
----
-
-## Featured Projects
-
-| Project                            | Description                                                                                                              |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| LLM Chatbot Automation             | AI-powered chatbot workflow using LLMs, structured outputs, webhooks and automation tools to support business operations |
-| Looker Studio Reporting Automation | Automated reporting solution focused on daily and monthly business metrics, dashboards and data visualization            |
-| n8n API Integration Workflow       | Workflow automation project connecting systems, validating data and sending information to different tools or databases  |
-| Google Sheets Data Pipeline        | Data processing and reporting automation using Google Sheets, formulas, Apps Script and structured data                  |
-| PowerShell File Automation         | Script-based automation for organizing, moving, renaming and processing files in Windows environments                    |
-| Barbershop App                     | Web application project focused on scheduling, interface structure and modern development practice                       |
-
----
-
-## GitHub
-
-I use GitHub to document my studies, organize projects and publish the systems, automations and technical solutions I am building.
-
-My main focus right now is:
-
-* AI automation
-* LLM-based solutions
-* Business workflows
-* Data analysis
-* n8n integrations
-* API automation
-* Reporting automation
-* Looker Studio dashboards
-* Google Apps Script projects
-* JavaScript and TypeScript development
-
----
-
-## Contact
-
-You can reach me through:
-
-* LinkedIn: https://www.linkedin.com/in/viniciusguidio/
-* GitHub: https://github.com/VinnySoares12
-* Email: [Viniciusandreguidio@hotmail.com](mailto:Viniciusandreguidio@hotmail.com)
+- LinkedIn
+- GitHub
