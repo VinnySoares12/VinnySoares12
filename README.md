@@ -1,4 +1,4 @@
-# Hi, I'm Vinicius Soares 👋
+# Hi, I'm Vinicius Guidio 👋
 
 ### Junior Data Analyst | Business Intelligence | Data Analytics | Automation
 
@@ -66,5 +66,4 @@ The platform includes:
 
 ## Let's connect
 
-- LinkedIn
-- GitHub
+[LinkedIn](https://www.linkedin.com/in/viniciusguidio/)
